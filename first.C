@@ -8,4 +8,4 @@ int main(){
 // endl is used to end the line and move to next line
 // cout is used to print the output on the screen
 // namespace is used to avoid the use of std::cout and std::cin
-//cin is used to take input from the user
+//cin is used to take input from the userS
